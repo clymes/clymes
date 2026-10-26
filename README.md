@@ -1,12 +1,32 @@
 # clymes
 
-Software student at the university of Bologna, that focuses on Java and Javascript.
+```text
+Software student at the University of Bologna, focused on Java and JavaScript.
 Real name is Claudio Marchesini, born in Italy.
+```
 
 ### Tech stack and competencies
+```text
+- Java and JavaScript
+- HTML and CSS
+- React and Expo
+- NodeJS
+- Docker
+- Training & fine-tuning Language Models (LLMs)
+- Basic C
+- Basic Lua
+- Basic low poly models in Blender
+- Basic SQL queries
+```
 
-- **Java** and **Javascript**
-- A bit of **Lua**
-- Basic low poly models in **Blender**
-- **HTML** and **CSS**
-- Basic queries
+### Interested in learning more
+```text
+- DevOps
+- Linux
+- Rust
+- Assembly
+- Server infrastructure
+- Electronics and microchips
+- Autonomous systems, automation
+- Artificial Intelligence & Deep Learning
+```
