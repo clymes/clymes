@@ -5,7 +5,7 @@ Software student at the University of Bologna, focused on Java and JavaScript.
 Real name is Claudio Marchesini, born in Italy.
 ```
 
-### Tech stack and competencies
+### ✰ Tech stack and competencies
 ```text
 - Java and JavaScript
 - HTML and CSS
@@ -19,7 +19,7 @@ Real name is Claudio Marchesini, born in Italy.
 - Basic SQL queries
 ```
 
-### Interested in learning more
+### ✰ Interested in learning more
 ```text
 - DevOps
 - Linux
